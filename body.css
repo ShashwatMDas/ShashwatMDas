@@ -1,0 +1,67 @@
+.content{
+    background-image: url('bg1.jpg');
+    background-size: 110% 100%;
+    margin: 6% 0 0 0;
+    padding: 9% 4% 20% 60%; 
+    font-size: 130%;
+    color: white;
+    font-family: 'Modak', cursive;
+}
+
+.abt{
+    background-image: url('bg2.jpg');
+    background-size: 110% 100%;
+    margin: 6% 0 0 0;
+    padding: 10% 50% 20% 14%; 
+    font-size: 130%;
+    color: black;    
+    font-family: 'Modak', cursive;   
+}
+
+.acad{
+    background-image: url('bg3.jpg');
+    background-size: 100% 100%;
+    margin: 6% 0 0 0;
+    padding: 3% 60% 5% 4%; 
+    font-size: 130%;
+    color: white;    
+    font-family: 'Modak', cursive;
+}
+.hobbies{
+    background-image: url('bg4.jpg');
+    background-size: 100% 100%;
+    margin: 6% 0 0 0;
+    padding: 8% 6% 14% 54%; 
+    font-size: 130%;
+    color: white; 
+    font-family: 'Modak', cursive;
+}
+
+.ach{
+    background-image: url('bg5.jpg');
+    background-size: 100% 100%;
+    margin: 6% 0 0 0;
+    padding: 11% 6% 20% 54%; 
+    font-size: 130%;
+    color: white; 
+    font-family: 'Modak', cursive;
+}
+
+.cnt{
+    /* background-image: url('bg5.jpg');
+    background-size: 100% 100%; */
+    margin: 2% 0% 0% 0%;
+    /* padding: 3% 30% 0% 30%;  */
+    font-size: 130%;
+    color: black;
+    text-align: center;
+    font-family: 'Modak', cursive;
+}
+
+.contc{
+    background-image: url('contc.png');
+    background-size: 100% 100%;
+    margin: 7% 0 0 0;
+    padding: 4% 0% 4% 0%;
+    font-family: 'Modak', cursive;
+}
